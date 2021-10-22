@@ -32,6 +32,8 @@
 
 - ## **Balanced Random Forest Classifier**
 
-1[Balanced%20Random%20Forest%20Classifier.PNG](https://github.com/Bionicbabes/Credit_Risk_Analysis/blob/main/Re/Balanced%20Random%20Forest%20Classifier.PNG)
+![Balanced%20Random%20Forest%20Classifier.PNG](https://github.com/Bionicbabes/Credit_Risk_Analysis/blob/main/Re/Balanced%20Random%20Forest%20Classifier.PNG)
 
 - ## **Easy Ensemble AdaBoost Classifier**
+
+![Easy%20Ensemble%20AdaBoost%20Classifier.PNG](https://github.com/Bionicbabes/Credit_Risk_Analysis/blob/main/Re/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
