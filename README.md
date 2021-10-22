@@ -18,4 +18,5 @@
 ![Naive%20Random%20Oversampling.PNG](https://github.com/Bionicbabes/Credit_Risk_Analysis/blob/main/Re/Naive%20Random%20Oversampling.PNG)
 
 
-- ##**SMOTE Oversampling**
+- ## **SMOTE Oversampling**
+![SMOTE%20Oversampling.PNG](https://github.com/Bionicbabes/Credit_Risk_Analysis/blob/main/Re/SMOTE%20Oversampling.PNG)
