@@ -27,3 +27,11 @@
 
 
 - ## **Combination (Over and Under) Sampling**
+![Combination%20(Over%20and%20Under)%20Sampling.PNG](https://github.com/Bionicbabes/Credit_Risk_Analysis/blob/main/Re/Combination%20(Over%20and%20Under)%20Sampling.PNG)
+
+
+- ## **Balanced Random Forest Classifier**
+
+
+
+- ## **Easy Ensemble AdaBoost Classifier**
