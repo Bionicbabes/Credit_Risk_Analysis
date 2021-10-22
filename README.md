@@ -20,3 +20,10 @@
 
 - ## **SMOTE Oversampling**
 ![SMOTE%20Oversampling.PNG](https://github.com/Bionicbabes/Credit_Risk_Analysis/blob/main/Re/SMOTE%20Oversampling.PNG)
+
+
+- ## **Undersampling**
+![Undersampling.PNG](https://github.com/Bionicbabes/Credit_Risk_Analysis/blob/main/Re/Undersampling.PNG)
+
+
+- ## **Combination (Over and Under) Sampling**
